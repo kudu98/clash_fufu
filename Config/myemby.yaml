@@ -49,3 +49,17 @@ payload:
   - IP-CIDR,108.181.0.21/32,no-resolve
   - IP-CIDR,168.138.45.100/32,no-resolve
   - DOMAIN,emby.my
+  - DOMAIN-SUFFIX,itsmyduty.top
+  - DOMAIN-SUFFIX,1024.name
+  - IP-CIDR,117.176.203.229,no-resolve
+  - DOMAIN-SUFFIX,emby.awatv.de
+  - DOMAIN-SUFFIX,lilyya.xyz
+  - DOMAIN-SUFFIX,pilipili.club
+  - DOMAIN-SUFFIX,yhemby.top
+  - DOMAIN-SUFFIX,581658.best
+  - DOMAIN-SUFFIX,7777777.buzz
+  - DOMAIN-SUFFIX,cavps.eu.org
+  - DOMAIN-SUFFIX,sfcj.org
+  - DOMAIN-SUFFIX,nanflix.net
+  - DOMAIN-SUFFIX,vban.xyz
+  - DOMAIN-SUFFIX,cdn.jiashule.com
