@@ -22,8 +22,6 @@ payload:
   - DOMAIN-SUFFIX,push-kr.misakaf.org
   - DOMAIN-SUFFIX,direct.lyrebirdemby.com
   - DOMAIN-SUFFIX,cdn.lyrebirdemby.com
-  - DOMAIN-SUFFIX,cf.niceduck.lol
-  - DOMAIN-SUFFIX,vi.niceduck.lol
   - DOMAIN-SUFFIX,line.xmsl.org
   - DOMAIN-SUFFIX,public.emby.ws
   - DOMAIN-SUFFIX,embyplus.org
@@ -33,8 +31,6 @@ payload:
   - DOMAIN-SUFFIX,pub3cf.emby.wtf
   - DOMAIN-SUFFIX,notnetflix.cos.cat
   - DOMAIN-SUFFIX,emby.pilipiliultra.top
-  - DOMAIN-SUFFIX,jms.niceduck.lol
-  - DOMAIN-SUFFIX,1111cuct.niceduck.lol
   - DOMAIN-SUFFIX,gd.9521732.xyz
   - DOMAIN-SUFFIX,chirsemby.top
   - DOMAIN-SUFFIX,emby-us-v4.mius.uk
@@ -45,14 +41,12 @@ payload:
   - DOMAIN-SUFFIX,rd.happyav.eu.org
   - DOMAIN-SUFFIX,new.happyav.eu.org
   - DOMAIN-SUFFIX,nanflix.net
-  - DOMAIN-SUFFIX,embymv.link
   - IP-CIDR,108.181.0.21/32,no-resolve
   - IP-CIDR,168.138.45.100/32,no-resolve
   - DOMAIN,emby.my
   - DOMAIN-SUFFIX,itsmyduty.top
   - DOMAIN-SUFFIX,1024.name
   - IP-CIDR,117.176.203.229,no-resolve
-  - DOMAIN-SUFFIX,emby.awatv.de
   - DOMAIN-SUFFIX,lilyya.xyz
   - DOMAIN-SUFFIX,pilipili.club
   - DOMAIN-SUFFIX,yhemby.top
@@ -62,4 +56,11 @@ payload:
   - DOMAIN-SUFFIX,sfcj.org
   - DOMAIN-SUFFIX,nanflix.net
   - DOMAIN-SUFFIX,vban.xyz
-  - DOMAIN-SUFFIX,cdn.jiashule.com
+  - DOMAIN-SUFFIX,eggtartemby.itsmyduty.top
+  - DOMAIN-SUFFIX,1024.name
+  - DOMAIN-SUFFIX,emby.jingzihan.net
+  - DOMAIN-SUFFIX,emby.apopcloud.live
+  - DOMAIN-SUFFIX,lilyya.xyz
+  - DOMAIN-SUFFIX,jsq.mooguu.xyz
+  - DOMAIN-SUFFIX,emby.nebula-media.org
+  - DOMAIN-SUFFIX,285286.xyz
