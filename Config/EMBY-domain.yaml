@@ -1,0 +1,18 @@
+
+payload:
+  - DOMAIN-SUFFIX,ar.siepro.uk
+  - DOMAIN-SUFFIX,ck.siepro.uk
+  - DOMAIN-SUFFIX,wuhctmemby.itsmyduty.top
+  - DOMAIN-SUFFIX,movie.emby.blog
+  - DOMAIN-SUFFIX,1.1024.name
+  - DOMAIN-SUFFIX,ss.yeahfast.com
+  - DOMAIN-SUFFIX,cdn.jiashule.com
+  - DOMAIN-SUFFIX,vip.emby.my
+  - DOMAIN-SUFFIX,cf.niceduck.lol
+  - DOMAIN-SUFFIX,dpxcf.niceduck.lol
+  - DOMAIN-SUFFIX,jcf.niceduck.lol:443
+  - DOMAIN-SUFFIX,tv.micu.hk
+  - DOMAIN-SUFFIX,sj.viclub.top
+  - DOMAIN-SUFFIX,516516.xyz
+  - IP-CIDR,114.66.63.48,no-resolve
+  - IP-CIDR,103.197.185.84,no-resolve
