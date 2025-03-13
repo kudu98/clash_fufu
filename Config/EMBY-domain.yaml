@@ -16,5 +16,6 @@ payload:
   - DOMAIN-SUFFIX,516516.xyz
   - DOMAIN-SUFFIX,saturday.video
   - DOMAIN-SUFFIX,liustar.click
+  - DOMAIN-SUFFIX,115.com
   - IP-CIDR,114.66.63.48,no-resolve
   - IP-CIDR,103.197.185.84,no-resolve
