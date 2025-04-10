@@ -58,5 +58,6 @@ payload:
   - DOMAIN-SUFFIX,wenjian.de
   - DOMAIN-SUFFIX,tanhuatv.site
   - DOMAIN-SUFFIX,younoyes.com
+  - DOMAIN-SUFFIX,liustar.click
   - IP-CIDR,120.226.149.35/32,no-resolve
   - IP-CIDR,116.163.28.190/32,no-resolve
